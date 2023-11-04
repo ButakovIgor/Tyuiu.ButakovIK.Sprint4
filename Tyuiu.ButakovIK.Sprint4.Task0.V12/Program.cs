@@ -22,7 +22,7 @@ namespace Tyuiu.ButakovIK.Sprint4.Task0.V12
 
             Console.WriteLine("**********************************************************************************");
             Console.WriteLine("* Спринт #4                                                                      *");
-            Console.WriteLine("* Тема: Oдномерные массивы (статический ввод)                                    *");
+            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                                    *");
             Console.WriteLine("* Таск #0                                                                        *");
             Console.WriteLine("* Вариaнт #12                                                                    *");
             Console.WriteLine("* Выполнил: Бутаков Игорь Константинович | АСОиУБ-23-1                           *");
