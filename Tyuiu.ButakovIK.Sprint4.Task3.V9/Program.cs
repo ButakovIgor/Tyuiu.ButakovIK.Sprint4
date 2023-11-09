@@ -23,7 +23,7 @@ namespace Tyuiu.ButakovIK.Sprint4.Task3.V9
             Console.WriteLine("* Вариaнт #9                                                                           *");
             Console.WriteLine("* Выполнил: Бутаков Игорь Константинович | АСОиУБ-23-1                                 *");
   
-            int[,] mtrx = new int[5, 5] { { 9, 6, 4, 5, 3 },
+            int[,] mtrx =  { { 9, 6, 4, 5, 3 },
                                           { 7, 4, 7, 5, 3 },
                                           { 8, 5, 9, 9, 3 },
                                           { 7, 8, 7, 9, 3 },
