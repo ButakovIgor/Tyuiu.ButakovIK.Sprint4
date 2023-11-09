@@ -19,7 +19,7 @@ namespace Tyuiu.ButakovIK.Sprint4.Task5.V11
             Console.WriteLine("* Спринт #4                                                                            *");
             Console.WriteLine("* Тема: Двумерные массивы. (случайные значения)                                        *");
             Console.WriteLine("* Таск #5                                                                              *");
-            Console.WriteLine("* Вариaнт #1                                                                           *");
+            Console.WriteLine("* Вариaнт #11                                                                           *");
             Console.WriteLine("* Выполнил: Бутаков Игорь Константинович | АСОиУБ-23-1                                 *");
             Console.WriteLine("****************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                             *");
